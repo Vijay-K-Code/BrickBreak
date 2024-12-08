@@ -1,3 +1,7 @@
+//Vijay Kannan
+//12/7/2024
+//Brickbreaker code for a game that moves around a paddle to hit a ball!
+
 import java.awt.Graphics;
 import java.awt.*;
 
